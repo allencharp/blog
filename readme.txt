@@ -1,3 +1,9 @@
+
+这个项目只是个人学习用的，没什么太大的价值。
+欢迎指正和批评。
+
+mailto:qyuhen@hotmail.com
+
 使用说明：
 
 1. 执行 run.py 启动服务器。
@@ -15,3 +21,10 @@
     easy_install pymongo
     easy_install redis
     easy_install Tornado
+
+修改历史：
+
+  2010-11-03
+    + 完成一个初步框架，将代码放到github。
+
+
