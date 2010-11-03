@@ -7,6 +7,7 @@ mailto:qyuhen@hotmail.com
 成员列表：
 
   qyuhen：传说中的老菜鸟。
+  gallardot: 一切都是幻觉，神马都是浮云
 
 使用说明：
 
