@@ -8,6 +8,7 @@ mailto:qyuhen@hotmail.com
   qyuhen：传说中的老菜鸟。
   gallardot: 一切都是幻觉，神马都是浮云
   sinsay: 不知道说啥好...
+  dickson：传说中的菜菜。
 
 使用说明：
 
