@@ -4,10 +4,14 @@
 
 mailto:qyuhen@hotmail.com
 
+成员列表：
+
+  qyuhen：传说中的老菜鸟。
+
 使用说明：
 
-1. 执行 run.py 启动服务器。
-2. 执行 test.py 启动命令解释器。
+  1. 执行 run.py 启动服务器。
+  2. 执行 test.py 启动命令解释器。
 
 
 所需环境：
